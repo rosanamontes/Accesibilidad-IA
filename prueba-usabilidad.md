@@ -41,11 +41,17 @@ Podrás realizar adaptaciones como las que se proponen:
 3. Producción. Mira si puede transformar la respuesta de la IA en algo propio, con apoyo o sin él.
 4. Revisión. Valora si detecta errores, si sabe pedir una segunda versión y si reconoce cuándo la ayuda no le sirve.
 
-### Instrumentos para realizar la prueba
-Recopilamos datos sobre la herramienta, sobre la tarea, sobre cada estudiante.
+### Instrumentos de recogida de la prueba
+Recopilamos datos sobre la herramienta usada, sobre la tarea, sobre cada estudiante y sobre los cuatro puntos anteriores.
+
+| Alumno/a | Fecha | Etapa/curso | Necesidad detectada | Acceso a la herramienta | Comprende la consigna | Formula la petición a la IA | Comprende la respuesta de la IA | Usa la respuesta para la tarea | Necesita ayuda | Tipo de ayuda | Barreras observadas | Apoyos que funcionaron | Observaciones |
+| -------- | ----- | ----------- | ------------------- | ----------------------- | --------------------- | --------------------------- | ------------------------------- | ------------------------------ | -------------- | ------------- | ------------------- | ---------------------- | ------------- |
+|          |       |             |                     | Sí / No / Con ayuda     | Sí / No / Con ayuda   | Sí / No / Con ayuda         | Sí / No / Con ayuda             | Sí / No / Con ayuda            | Sí / No        |               |                     |                        |               |
+|          |       |             |                     | Sí / No / Con ayuda     | Sí / No / Con ayuda   | Sí / No / Con ayuda         | Sí / No / Con ayuda             | Sí / No / Con ayuda            | Sí / No        |               |                     |                        |               |
+|          |       |             |                     | Sí / No / Con ayuda     | Sí / No / Con ayuda   | Sí / No / Con ayuda         | Sí / No / Con ayuda             | Sí / No / Con ayuda            | Sí / No        |               |                     |                        |               |
 
 
 ### Referencias
-Guía UNESCO. (2024). [Guía para el uso de IA generativa en educación e investigación. UNESCO.] 
+Guía UNESCO. (2024). Guía para el uso de IA generativa en educación e investigación. UNESCO. 
 ((https://unesdoc.unesco.org/ark:/48223/pf0000386693))  
 
