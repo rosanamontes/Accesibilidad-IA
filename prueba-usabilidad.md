@@ -1,17 +1,17 @@
 ## Prueba de Usabilidad IA
 
-Con base en la Guía UNESCO (2024), proponemos un experimento para evaluar la usabilidad de la IA en contexto educativo NEAE (Necesidades Específicas de Apoyo Educativo).
+Con base en la Guía UNESCO (2024), proponemos un *experimento para evaluar la usabilidad de la IA en contexto educativo NEAE* (Necesidades Específicas de Apoyo Educativo).
 
 ### Propósito docente
-La prueba de usabilidad al inicio de curso me debe permitir observar qué apoyos necesita cada estudiante antes de que la tarea cuente como evidencia de aprendizaje. 
-La idea es comprobar si la IA realmente ayuda o si, por el contrario, introduce nuevas barreras de acceso, comprensión o expresión.
+La prueba de usabilidad al inicio de curso me debe permitir *observar qué apoyos necesita cada estudiante con respecto al uso de la IA* (que por supuesto, estará permitida en mi asignatura) antes de que la evaluación continua me lleve a proponerles actividades y tareas que cuenten como evidencias de aprendizaje. 
+La idea es comprobar si la IA realmente ayuda a todos mis estudiantes o si, por el contrario, y para algunos casos, introduce barreras de acceso, comprensión o expresión.
 
 **Objetivo**
-La prueba no evalúa 'si saben usar la IA, sino:
+La prueba no evalúa *si saben usar la IA*, sino:
 - Si pueden entender la consigna.
 - Si pueden interactuar con la herramienta sin quedar bloqueados.
 - Si la IA les ayuda a acceder, planificar y producir la tarea.
-- Si necesitan ajustes de formato, ritmo, lenguaje o canal de respuesta.
+- Si necesitan ajustes de formato, ritmo, lenguaje o canal de respuesta. Igualmente, saber si necesitan lectores de pantalla u otras herramientas de apoyo.
 
 **Qué observar**
 Durante la prueba, se propone la atención a estas señales:
