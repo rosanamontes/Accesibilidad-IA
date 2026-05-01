@@ -9,7 +9,7 @@ Paso: Incluye siempre en el prompt el nivel educativo específico. Por ejemplo: 
 
 2. Solicita estructuras semánticas y ayudas técnicas
 Deseamos evitar el *Vibe Coding* o la moda por solo por lo estetico que la IA a menudo prioriza sobre la estructura técnica funcional o sobre la semántica.
-Paso: Si pides a la IA que genere código o contenido web para tus alumnos, solicita explícitamente etiquetas semánticas (como <nav>, <h1>), navegación por teclado y compatibilidad con lectores de pantalla. Esto evita que el contenido sea visualmente atractivo pero inaccesible.
+Paso: Si pides a la IA que genere código o contenido web para tus alumnos, solicita explícitamente etiquetas semánticas, navegación por teclado y compatibilidad con lectores de pantalla. Esto evita que el contenido sea visualmente atractivo pero inaccesible.
 Si lo que estas solicitando es una imagen, no olvides pedir que el resultado tenga un buen contraste de color y se nos proporcione el texto alternativo a usar, por ejemplo, en la plataforma Moodle como PRADO.
 
 4. Desglosa tareas complejas en pasos manejables
