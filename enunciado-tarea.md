@@ -8,7 +8,7 @@ Estimado estudiante.
 Usa la IA como apoyo para entender, organizar y mejorar tu trabajo. No copies la respuesta sin revisarla: piensa si te sirve, corrige lo necesario y adapta el resultado a tu forma de trabajar. De hecho, te propongo que observes los siguientes:
 
 **Pasos para hacer un buen prompt**:
-1. Explica tu contexto de uso.
+1. Explica tu contexto de uso y si se va a buscar respuestas deterministas o más aleatorias.
 2. Define explícitamente el nivel de lectura y complejidad de conocimiento.
 3. Solicita ayudas técnicas explicitas si tú las requieres.
 4. Pide desglosar tareas complejas en pasos manejables.
@@ -26,7 +26,7 @@ Además de atender al instructor de la prueba, tu misión particular será la si
 
 **Consigna de la Actividad** 
 
-*Describe las funciones de una coockie. Cuál es el propósito de éstas cuando se nos consulta desde cada la página web. Si mis padres me preguntan sobre ellas, ¿qué 3 argumentos les debo dar para recomendarles que las acepten?, o ¿qué 3 argumentos servirían para justificar que las rechacen?*  
+*Describe las funciones de una coockie y ciñete a los datos técnicos. Cuál es el propósito de éstas cuando se nos consulta desde cada la página web (busca ejemplos dentro de la informática). Si mis padres me preguntan sobre ellas, ¿qué 3 argumentos les debo dar para recomendarles que las acepten?, o ¿qué 3 argumentos servirían para justificar que las rechacen? Puedes convencerles usando analogías o metáforas.*  
 
 **Formulario de Registro de la Prueba**
 
