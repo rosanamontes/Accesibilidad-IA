@@ -5,7 +5,9 @@
 Estimado estudiante. 
    Vas a realizar una breve tarea de clase con ayuda de una herramienta de IA generativa a tu elección. El objetivo no es solo entregar una respuesta, sino mostrar cómo entiendes la consigna, cómo usas el apoyo tecnológico y cómo revisas lo que la IA te propone para mejorar tu trabajo.
 
-Usa la IA como apoyo para entender, organizar y mejorar tu trabajo. No copies la respuesta sin revisarla: piensa si te sirve, corrige lo necesario y adapta el resultado a tu forma de trabajar. De hecho, te propongo que observes los siguientes **pasos para hacer un buen prompt**:
+Usa la IA como apoyo para entender, organizar y mejorar tu trabajo. No copies la respuesta sin revisarla: piensa si te sirve, corrige lo necesario y adapta el resultado a tu forma de trabajar. De hecho, te propongo que observes los siguientes:
+
+**Pasos para hacer un buen prompt**:
 1. Explica tu contexto de uso.
 2. Define explícitamente el nivel de lectura y complejidad de conocimiento.
 3. Solicita ayudas técnicas explicitas si tú las requieres.
