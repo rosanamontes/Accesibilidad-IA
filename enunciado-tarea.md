@@ -25,4 +25,11 @@ Además de atender al instructor de la prueba, tu misión particular será la si
 - Explicar brevemente qué te ayudó, qué te costó y qué tipo de apoyo necesitas para trabajar mejor en próximas tareas.
 
 **Consigna de la Actividad** 
-*Describe las funciones de una coockie. Cuál es el propósito de éstas cuando se nos consulta desde cada la págia web. Si mis padres me preguntan sobre ellas, qué 3 argumentos les debo dar para recomendarles que las acepten o qué 3 argumentos servirían para justificar que las rechacen?*  
+
+*Describe las funciones de una coockie. Cuál es el propósito de éstas cuando se nos consulta desde cada la página web. Si mis padres me preguntan sobre ellas, ¿qué 3 argumentos les debo dar para recomendarles que las acepten?, o ¿qué 3 argumentos servirían para justificar que las rechacen?*  
+
+**Formulario de Registro de la Prueba**
+
+Ahora agradeceremos que mantengas en un link del navegador este formulario de Google Forms para compartir tus resultados de la prueba.
+Pulsa en ((https://forms.gle/uVuwQSAnKiji1SjC9))
+
