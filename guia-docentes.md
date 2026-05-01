@@ -14,4 +14,4 @@ Como docente, tu rol es actuar como supervisor y facilitador para asegurar que l
 
 ### La IA no es accesible por defecto
 Para que sea inclusiva, requiere de instrucciones humanas explícitas y una supervisión constante por parte del docente para corregir los sesgos estructurales del sistema. 
-Sugerimos al docente consultar la guía para hacer [prompts-inclusivos.md](prompts inclusivos).
+Sugerimos al docente consultar la guía para hacer [prompts inclusivos](prompts-inclusivos.md).
