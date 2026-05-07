@@ -9,7 +9,7 @@ Plantea que tu test se estructure en torno a tres bloques o momentos principales
 
 La duración total debería rondar los 60–90 minutos para el grupo. Toda prueba debe acometer tareas reales, observar aspectos generales ---como las métricas ISO (efectividad, eficiencia, satisfacción)--- así como observar apuntes particulares a partir del uso de escalas específicas para el producto evaluado (como puede ser un chatbot).
 
-De forma más detallada ofrecemos el protocolo compmleto de sesión 
+De forma más detallada ofrecemos un protocolo completo de sesión. 
 
 ### Paso a paso
 
