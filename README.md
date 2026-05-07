@@ -7,7 +7,7 @@ Despues de plantearme [qué necesito saber como docente](guia-docentes.md) y de 
 
 Por cierto, la prueba de usabilidad con usuarios reales es algo costoso pero muy fructifero que te recomiendo realizar. Si no has hecho nunca un test de este tipo tengo dos recomendaciones para ti:
 - el libro **"No me hagas pensar"** de Steve Krug. Tanto en español como en ingles [Dont't make me think](https://sensible.com/dont-make-me-think/) es una delicia de lectura y enseña mucho sobre esto.
-- mi [propuesta de protocolo](propuesta-protocolo.md), basada en la lectura y subrayado del libro anterior.
+- mi [propuesta de protocolo](protocolo-sesion.md), basada en la lectura y subrayado del libro anterior.
 
 Considera además que aunque sean 4 personas (que te parece poca cosa)... *una prueba de usabilidad es siempre tiempo bien empleado*.
 
