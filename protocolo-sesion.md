@@ -7,7 +7,7 @@ Plantea que tu test se estructure en torno a tres bloques o momentos principales
 - el test: se le pide a la persona que realize una tarea(s) y se anotan resultados mediante un formulario online, y se observa y escucha el desarrollo de la misma sin intervenir en ningún momento.
 - post-test: el moderador agradece a todos los participantes y se les informa de los pasos siguientes que se desarrollaran para realizar publicaciones, software, u otro resultado de investigación a partir de esta prueba.
 
-La duración total debería rondar los 60–90 minutos para el grupo. Toda prueba debe acometer tareas reales, así como observar generalidades ---como las métricas ISO (efectividad, eficiencia, satisfacción)--- así como apuntes particulares a partir del desarrollo y uso de escalas específicas para el producto evaluado (como puede ser un chatbot).
+La duración total debería rondar los 60–90 minutos para el grupo. Toda prueba debe acometer tareas reales, observar aspectos generales ---como las métricas ISO (efectividad, eficiencia, satisfacción)--- así como observar apuntes particulares a partir del uso de escalas específicas para el producto evaluado (como puede ser un chatbot).
 
 De forma más detallada ofrecemos el protocolo compmleto de sesión 
 
