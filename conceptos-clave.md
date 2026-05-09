@@ -1,12 +1,12 @@
 ## Ideas para no olvidar
 
-La accesibilidad web consiste en diseñar interfaces que permitan a personas con discapacidad acceder y entender el contenido sin obstáculos. Según WCAG, \textit{«la accesibilidad web garantiza que individuos con discapacidad puedan acceder e interactuar con contenido digital sin barreras»}. 
+La **accesibilidad** web consiste en diseñar interfaces que permitan a personas con discapacidad acceder y entender el contenido sin obstáculos. Según WCAG, *«la accesibilidad web garantiza que individuos con discapacidad puedan acceder e interactuar con contenido digital sin barreras». 
 
-La usabilidad es la facilidad, eficiencia y satisfacción con la que usuarios consiguen sus objetivos con el sistema. En IA esto incluye la claridad de las respuestas, facilidad de interacción (voz, texto), y que el sistema ofrezca feedback comprensible. 
+La **usabilidad** es la facilidad, eficiencia y satisfacción con la que usuarios consiguen sus objetivos con el sistema. En IA esto incluye la claridad de las respuestas, facilidad de interacción (voz, texto), y que el sistema ofrezca feedback comprensible. 
 
 Ambas dimensiones se superponen: una interfaz inaccesible (por ejemplo, con botones sin etiqueta) disminuye la usabilidad para todos.
 
-Según mi experiencia, **estos son todos los factores posibles que afectan a la accesibilidad/usabilidad de la IA**:
+Según mi experiencia, **estos son los factores posibles que afectan a la accesibilidad/usabilidad de la IA**. Si eres programador o diseñador UX, atiende a los siguientes:
 
 - *Datos de entrenamiento* Los modelos IA aprenden de datos masivos. Si estos datos no incluyen diversidad (razas, géneros, discapacidades, estilos de aprendizaje), la IA tenderá a reflejar sesgos sistémicos. P.ej., sistemas de reconocimiento de voz suelen fallar con voces atípicas o acentos no predominantes. La UNESCO enfatiza proteger la diversidad e inclusión desde la fuente.
 - *Personalización* Las mejores herramientas IA se adaptan a las preferencias del usuario (voz alta, lecturas simplificadas, sugerencias de tarea). Pocos sistemas actuales ofrecen perfiles de accesibilidad propios. Sin personalización, una misma respuesta puede ser demasiado compleja para un estudiante con discapacidad cognitiva o demasiado simplificada para otro usuario.
