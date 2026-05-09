@@ -3,7 +3,7 @@
 Por si no has realizado nunca una prueba de usabilidad, considera la siguiente información. 
 
 Plantea que tu test se estructure en torno a tres bloques o momentos principales: 
-- *pre-test*: aqui el moderador se centra en aportar una explicación (el por qué estamos reunidos), motivación de la prueba (para qué va a servir) y el cómo se plantea desarrollar (lo que se le va a pedir a la persona).
+- *pre-test*: aqui el moderador se centra en aportar una explicación (el por qué estamos reunidos), motivación de la prueba (para qué va a servir) y el cómo se plantea desarrollar (lo que se le va a pedir a la persona). Debe cubrir el paso del [Consentimiento Informado](consentimiento-informado.md].
 - *el test*: se le pide a la persona que realize una tarea(s) y se anotan resultados mediante un formulario online, y se observa y escucha el desarrollo de la misma sin intervenir en ningún momento.
 - *post-test*: el moderador agradece a todos los participantes y se les informa de los pasos siguientes que se desarrollaran para realizar publicaciones, software, u otro resultado de investigación a partir de esta prueba.
 
