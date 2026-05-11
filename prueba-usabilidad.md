@@ -55,21 +55,8 @@ Una vesión rápida de contestar (basada en *radiobuttons* que solo requieren un
 
 Para la facilitación de la recogida de información se recomienda separar los instrumentos entre los que puede *completar el moderador* y los que *debe completar el usuario*. A modo de guía, se propone que el *formulario de recogida de datos del moderador de la sesión* incluya los siguientes elementos:
 
-**General**:
-• rango de edad;
-• perfil educativo;
-• experiencia tecnológica;
-• experiencia previa con IA;
-• tecnología de apoyo utilizada;
-• frecuencia de uso de asistentes conversacionales.
-
-**Sobre contexto de uso**
-• dispositivo utilizado;
-• navegador;
-• lector de pantalla;
-• uso de teclado;
-• móvil/escritorio;
-• entorno silencioso/ruidoso.
+- **General**: rango de edad; perfil educativo; experiencia tecnológica; experiencia previa con IA; tecnología de apoyo utilizada; frecuencia de uso de asistentes conversacionales.
+- **Sobre contexto de uso**: dispositivo utilizado; navegador; lector de pantalla; uso de teclado; móvil/escritorio; entorno silencioso/ruidoso.
 
 
 ## Formulario de investigación
