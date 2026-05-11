@@ -33,3 +33,5 @@ Además de atender al instructor de la prueba, tu misión particular será la si
 Ahora agradeceremos que mantengas en un link del navegador este formulario de Google Forms para compartir tus resultados de la prueba.
 Pulsa en ((https://forms.gle/uVuwQSAnKiji1SjC9))
 
+NOTA: ¿Quieres conocer la base de diseño de este cuestionario? Te explico la [Correspondencia entre dimensiones DUA e ítems del cuestionario](instrumento-DUA.md).
+
