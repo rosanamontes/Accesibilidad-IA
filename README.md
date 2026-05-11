@@ -15,7 +15,7 @@ Considera además que aunque sean 4 personas (que te parece poca cosa)... *una p
 La idea que planteo en este repositorio se basa en la *Guía para el uso de IA generativa en educación e investigación* [(UNESCO, 2024)](https://unesdoc.unesco.org/ark:/48223/pf0000386693) porque prioriza la intervención humana, exige pensamiento de orden superior y permite que la  IA se use de forma pedagógicamente apropiada, controlada por el alumnado y el docente. También es coherente con el apoyo a estudiantes con necesidades especiales, ya que contempla accesibilidad, adaptación del lenguaje y múltiples formas de participación y expresión.
 Me apoyo igualmente en mi experiencia como docente en *Diseño de Interfaces de Usuario* y en evaluación de la usabilidad de sistemas. [Conceptos importantes](conceptos-clave.md) para todo ingeniero informático.
 
-Busquemos estudiantes con necesidades especiales y realicemos con ellos la siguiente [tarea](enunciado-tarea.md).
+Busquemos estudiantes con necesidades especiales y realicemos con ellos una siguiente [tarea simple](enunciado-tarea.md) para posteriormente completar un [cuestionario basado en DUA](instrumento-DUA.md).
 El análisis posterior arrojará mucha luz sobre las adaptaciones que debo realizar para que las tareas en co-inteligencia con la IA no sean ninguna barrera.
 
 En Granada... 
