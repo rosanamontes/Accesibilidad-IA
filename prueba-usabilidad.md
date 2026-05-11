@@ -53,9 +53,28 @@ Una vesión rápida de contestar (basada en *radiobuttons* que solo requieren un
 |          |       |             |                     | Sí / No / Con ayuda     | Sí / No / Con ayuda   | Sí / No / Con ayuda         | Sí / No / Con ayuda             | Sí / No / Con ayuda            | Sí / No        |               |                     |                        |               |
 
 
+Para la facilitación de la recogida de información se recomienda separar los instrumentos entre los que puede *completar el moderador* y los que *debe completar el usuario*. A modo de guía, se propone que el *formulario de recogida de datos del moderador de la sesión* incluya los siguientes elementos:
+
+**General**:
+• rango de edad;
+• perfil educativo;
+• experiencia tecnológica;
+• experiencia previa con IA;
+• tecnología de apoyo utilizada;
+• frecuencia de uso de asistentes conversacionales.
+
+**Sobre contexto de uso**
+• dispositivo utilizado;
+• navegador;
+• lector de pantalla;
+• uso de teclado;
+• móvil/escritorio;
+• entorno silencioso/ruidoso.
+
+
 ## Formulario de investigación
 
-Una versión más elaborada nos ofrecería un formulario completo de recogida de datos. Para este estudio se ha implementado un cuestionario de 22 items en  [Google Forms de la UGR](https://forms.gle/1KEidKH3HdK6WXGh6). En su diseño nos hemos basado en la Guia UNESCO 2024 y los principios del DUA. En este enlace se explica la [correspondencia entre las dimensiones DUA y los ítems del cuestionario](instrumento-DUA.md).
+Se ha diseñado un formulario completo de recogida de datos a rellenar por el estudiante. Para este estudio se ha implementado un cuestionario de 22 items en  [Google Forms de la UGR](https://forms.gle/1KEidKH3HdK6WXGh6). En su diseño nos hemos basado en la Guia UNESCO 2024 y los principios del DUA. En este enlace se explica la [correspondencia entre las dimensiones DUA y los ítems del cuestionario](instrumento-DUA.md).
 
 
 ### Referencias
