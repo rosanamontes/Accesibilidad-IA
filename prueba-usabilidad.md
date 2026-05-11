@@ -44,13 +44,18 @@ Podrás realizar adaptaciones como las que se proponen:
 ### Instrumentos de recogida de la prueba
 Nos planteamos la recopilación de datos sobre cada estudiante (sobre todo a principio de curso) sobre la herramienta IA usada y sobre los cuatro puntos anteriores. Es fundamental la observación por parte del instructor para poder anotar barreras observadas, soluciones funcionales y otras observaciones.
 
+Una vesión rápida de contestar (basada en *radiobuttons* que solo requieren un clic) podría recoger información como la que se muestra en esta tabla.
+
 | Alumno/a | Fecha | Etapa/curso | Necesidad detectada | Acceso a la herramienta | Comprende la consigna | Formula la petición a la IA | Comprende la respuesta de la IA | Usa la respuesta para la tarea | Necesita ayuda | Tipo de ayuda | Barreras observadas | Apoyos que funcionaron | Observaciones |
 | -------- | ----- | ----------- | ------------------- | ----------------------- | --------------------- | --------------------------- | ------------------------------- | ------------------------------ | -------------- | ------------- | ------------------- | ---------------------- | ------------- |
 |          |       |             |                     | Sí / No / Con ayuda     | Sí / No / Con ayuda   | Sí / No / Con ayuda         | Sí / No / Con ayuda             | Sí / No / Con ayuda            | Sí / No        |               |                     |                        |               |
 |          |       |             |                     | Sí / No / Con ayuda     | Sí / No / Con ayuda   | Sí / No / Con ayuda         | Sí / No / Con ayuda             | Sí / No / Con ayuda            | Sí / No        |               |                     |                        |               |
 |          |       |             |                     | Sí / No / Con ayuda     | Sí / No / Con ayuda   | Sí / No / Con ayuda         | Sí / No / Con ayuda             | Sí / No / Con ayuda            | Sí / No        |               |                     |                        |               |
 
-La primera versión del formulario completo de recogida de datos para este estudio se ofrece en el espacio [Google Forms de la UGR](https://forms.gle/1KEidKH3HdK6WXGh6)
+
+## Formulario de investigación
+
+Una versión más elaborada nos ofrecería un formulario completo de recogida de datos. Para este estudio se ha implementado un cuestionario de 22 items en  [Google Forms de la UGR](https://forms.gle/1KEidKH3HdK6WXGh6). En su diseño nos hemos basado en la Guia UNESCO 2024 y los principios del DUA. En este enlace se explica la [correspondencia entre las dimensiones DUA y los ítems del cuestionario](instrumento-DUA.md).
 
 
 ### Referencias
